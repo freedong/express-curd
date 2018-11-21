@@ -16,7 +16,7 @@ Node.js + MongoDB + Express 4.x
 ### 如何使用：
 * 首先启动MongoDB服务
 * `npm install` 进行依赖模块安装
-* 安装完成后，`npm start` 启动应用，浏览器打开 `http://localhost:3000` 即可预览
+* 安装完成后，`npm start` 启动应用，浏览器打开 `http://localhost:3003` 即可预览
 
 ##### [参考资料]
 * Express 4.x API中文手册：http://www.expressjs.com.cn/4x/api.html
@@ -25,4 +25,4 @@ Node.js + MongoDB + Express 4.x
 * ejs模板引擎的基本使用：http://www.cnblogs.com/xuanhun/p/3922847.html
 
 ### 项目地址：
-https://github.com/liuxuanqiang/Express-MongoDB
+https://github.com/freedong/express-curd
